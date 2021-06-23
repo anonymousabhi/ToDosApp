@@ -1,4 +1,8 @@
-# TodoApp2
+# TodoApp
+
+This is a minimalistic angular application which can help you with managing your day to day tasks. It can also be installed as a application as it is build with Service worker. 
+You can test the app here.
+https://offlinetodosapp.netlify.app/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.7.
 
