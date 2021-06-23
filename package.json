@@ -1,5 +1,5 @@
 {
-  "name": "todo-app2",
+  "name": "todo-app",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
@@ -19,7 +19,12 @@
     "@angular/platform-browser": "~10.0.11",
     "@angular/platform-browser-dynamic": "~10.0.11",
     "@angular/router": "~10.0.11",
-    "rxjs": "~6.5.5",
+    "@angular/service-worker": "~10.0.11",
+    "@ngtools/webpack": "^1.2.4",
+    "angularfire2": "^5.0.0-rc.3",
+    "firebase": "^4.6.1",
+    "rxjs": "^7.1.0",
+    "rxjs-compat": "^6.6.7",
     "tslib": "^2.0.0",
     "zone.js": "~0.10.3"
   },
